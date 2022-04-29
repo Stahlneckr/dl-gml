@@ -1,0 +1,11 @@
+{
+  "name": "gml",
+  "private": true,
+  "workspaces": [
+    "controller",
+    "dial"
+  ],
+  "devDependencies": {
+    "turbo": "^1.2.5"
+  }
+}
